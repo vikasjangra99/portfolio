@@ -1,3 +1,4 @@
+This is my personal portfolio webpage. The template was downloaded from Devfolio.
 Thanks for downloading this theme!
 
 Theme Name: DevFolio
