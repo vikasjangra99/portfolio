@@ -894,6 +894,8 @@ a:hover {
 
 .card-blog .card-body {
   position: relative;
+  margin: auto;
+  
 }
 
 .card-blog .card-category-box {
@@ -905,6 +907,12 @@ a:hover {
   line-height: 25px;
   overflow: hidden;
 }
+
+video {
+  width: auto !important;
+  height: auto !important;
+}
+
 
 .card-blog .card-category {
   display: inline-block;
